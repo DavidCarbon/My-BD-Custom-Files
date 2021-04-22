@@ -3,7 +3,7 @@
  * @version 1.0
  * @invite https://discord.gg/fY8YmZF
  * @source https://github.com/SubCoderHUN/NitroByPass
- * @updateURL https://raw.githubusercontent.com/SubCoderHUN/NitroByPass/main/NitroByPass.plugin.js
+ * @updateURL https://raw.githubusercontent.com/DavidCarbon/My-BD-Custom-Files/main/plugins/NitroByPass.plugin.js
  */
  /*
 	This library was made by ZackRauen, and below, NitroByPass made by SubCoder.
